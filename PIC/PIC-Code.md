@@ -1,1 +1,3 @@
-PIC code here
+theme: Minimal  
+
+# PIC code here
